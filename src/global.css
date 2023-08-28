@@ -14,7 +14,7 @@
  *
  */
 
-:root {
+ :root {
   --qwik-dark-blue: #006ce9;
   --qwik-light-blue: #18b6f6;
   --qwik-light-purple: #ac7ff4;
@@ -51,7 +51,7 @@ body {
   padding: 0;
   margin: 0;
   line-height: inherit;
-}
+} 
 
 /**
  * WHAT IS THIS FILE?
